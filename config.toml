@@ -5,7 +5,7 @@ title = "Anirudh Verma"
 # 2. Type # at the beginning of above line
 
 # 2. Remove # from line below and replace hsrai with your userID at github 
-baseURL = "https://MyUserID.github.io/www"
+baseURL = "https://ani339677.github.io/www"
 
 # 2. Remove # from line below
 publishDir = "docs"
