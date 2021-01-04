@@ -1,4 +1,4 @@
-title = "Anirudh Verma"
+title = "ani339677"
 
 # 1. Replace hsrai with your userID on code.gndec.ac.in server
 #baseURL = "http://code.gndec.ac.in/~2030009/www"
@@ -19,7 +19,7 @@ themesDir = "themes"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -30,13 +30,13 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
+  site_logo = "https://user-images.githubusercontent.com/75009931/103566353-e0bfa500-4ee7-11eb-91dc-49a25cdd3fc9.jpg"
   description = "Master trainer: Empowering Folk"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = "https://www.instagram.com/aniroid.v/"
   youtube = ""
-  github = "https://github.com/ani339677/www"
+  github = "https://github.com/ani339677"
   gitlab = ""
   linkedin = ""
   mastodon = ""
