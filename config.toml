@@ -30,7 +30,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = "https://user-images.githubusercontent.com/75009931/103566353-e0bfa500-4ee7-11eb-91dc-49a25cdd3fc9.jpg"
+  site_logo = ""
   description = "Master trainer: Empowering Folk"
   facebook = ""
   twitter = ""
