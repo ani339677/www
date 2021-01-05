@@ -14,7 +14,7 @@ publishDir = "docs"
 #publishDir = "../public_html/www"
 
 languageCode = "en-us"
-theme = "academic"
+theme = "ananke"
 themesDir = "themes"
 
 DefaultContentLanguage = "en"
